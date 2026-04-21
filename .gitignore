@@ -1,0 +1,15 @@
+# Build artifacts
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+code
+
+# Editor/OS cruft
+*.swp
+*.swo
+*.DS_Store
+
+# Local tokens/env
+.env
+.acmoj_token
